@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Trial for Franklin
 
 ## Environments
 -Preview: https://main--franklinboilerplate--jerisgonzales.hlx.page/
